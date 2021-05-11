@@ -1,2 +1,2 @@
 # Pandoras_Box
-Segunda Tentativa
+Estou colocando as resoluções das Listas da disciplina Introdução a Ciências de Dados
